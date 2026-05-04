@@ -55,6 +55,8 @@ For each record, the program:
 
 ## How to Compile and Run
 
-### Compile
 ```bash
 g++ main.cpp -o report
+./report
+# On Windows:
+report.exe
