@@ -1,0 +1,34 @@
+Student Name: Alex
+Credits: 12
+Cost/Credit: $138.25
+Grade: 88.50(B)
+Standing: Good Standing
+Total Due: $1659.00
+
+------------------------------------------
+Student Name: Sam
+Credits: 15
+Cost/Credit: $138.25
+Grade: 58.00(F)
+Standing: See Advisor
+Total Due: $2073.75
+
+------------------------------------------
+Student Name: Jordan
+Credits: 9
+Cost/Credit: $150.00
+Grade: 92.00(A)
+Standing: Good Standing
+Total Due: $1350.00
+
+------------------------------------------
+
+
+================== Summary Report ==================
+Valid Students: 3
+Invalid Rows: 0
+Average Grade: 79.50
+Min Grade: 58.00
+Max Grade: 92.00
+=========================================================
+
